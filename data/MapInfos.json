@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1388.5714285714284,"scrollY":768},
+{"id":2,"expanded":false,"name":"Cidade abandonada","order":2,"parentId":0,"scrollX":2430,"scrollY":1344},
+{"id":3,"expanded":false,"name":"Cidade de mineração","order":3,"parentId":0,"scrollX":2430,"scrollY":1344},
+{"id":4,"expanded":false,"name":"Vila de montanha","order":4,"parentId":0,"scrollX":1749.818181818182,"scrollY":1132.3636363636365},
+{"id":5,"expanded":false,"name":"Floresta de deterioração","order":5,"parentId":0,"scrollX":2430,"scrollY":1344},
+{"id":6,"expanded":false,"name":"Floresta perdida","order":6,"parentId":0,"scrollX":2406,"scrollY":1530}
+]
